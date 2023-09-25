@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Supply_Points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name":"Chilkalthana" }, "geometry": { "type": "Point", "coordinates": [ 75.396239992737534, 19.867869551738483 ] } },
+{ "type": "Feature", "properties": { "name":"Harsul" }, "geometry": { "type": "Point", "coordinates": [ 75.362700783652073, 19.903218018687006 ] } },
+{ "type": "Feature", "properties": { "name":"Padampani Colony"}, "geometry": { "type": "Point", "coordinates": [ 75.311784367238104, 19.859716208473529 ] } },
+{ "type": "Feature", "properties": { "name":"Pultanda" }, "geometry": { "type": "Point", "coordinates": [ 75.297928555802116, 19.950592979226577 ] } },
+{ "type": "Feature", "properties": { "name":"Ahmednagar" }, "geometry": { "type": "Point", "coordinates": [ 75.267067464124196, 19.847318609915757 ] } }
+]
+}
